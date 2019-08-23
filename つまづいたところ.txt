@@ -1,0 +1,3 @@
+・PHPの部分がコメントアウトされて表示されない→urlが間違っていた
+https://teratail.com/questions/64622?link=qa_related_pc
+・エラーが詳細に表示されない→一時的にERRMODE_EXCEPTIONからERRMODE_WARNINGに
